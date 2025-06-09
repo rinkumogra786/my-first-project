@@ -4,7 +4,8 @@ import { Container, Typography, Grid, Card, CardContent, Avatar, Box } from '@mu
 const teamMembers = [
   { name: 'Ravi Sharma', role: 'Founder & CEO', image: '' },
   { name: 'Neha Verma', role: 'CTO', image: '' },
-  { name: 'Amit Singh', role: 'Lead Developer', image: '' }
+  { name: 'Amit Singh', role: 'Lead Developer', image: '' },
+  { name: 'Namrita Singh', role: 'Lead Developer', image: '' }
 ];
 
 const AboutUs = () => {
